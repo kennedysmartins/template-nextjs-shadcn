@@ -20,12 +20,12 @@ Initial repository for your project.
 
 ## Pages
 
-## Content 
-### / (page.tsx)
-### /search 
+### Content 
+#### / (page.tsx)
+#### /search 
 ### /profile 
 
-## Admin
-### /admin 
-### /admin/settings 
+### Admin
+#### /admin 
+#### /admin/settings 
 
