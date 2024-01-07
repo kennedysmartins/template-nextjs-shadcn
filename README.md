@@ -12,10 +12,10 @@ Initial repository for your project.
 
 ## Components
 
-### Navbar
-### AdminNavbar
-### Search
-### ModeToggle
+#### Navbar
+#### AdminNavbar
+#### Search
+#### ModeToggle
 
 
 ## Pages
@@ -23,7 +23,7 @@ Initial repository for your project.
 ### Content 
 #### / (page.tsx)
 #### /search 
-### /profile 
+#### /profile 
 
 ### Admin
 #### /admin 
